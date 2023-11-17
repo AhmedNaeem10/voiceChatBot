@@ -1,4 +1,4 @@
 exports.ROUTES = {
     BASE: '/api/',
-    REPLY: '/api/reply'
+    REPLY: '/api/message'
 }
